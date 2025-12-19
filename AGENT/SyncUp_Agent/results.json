@@ -1,0 +1,310 @@
+{
+  "user_id": "cli-user",
+  "input_type": "resume",
+  "input_data": "Your Name\nSoftware Developer\n\nExperience:\n- 2 years full-stack development at startup\n- Built React applications with Node.js backend\n- Worked with PostgreSQL and MongoDB databases\n- Implemented REST APIs and GraphQL endpoints\n- Experience with AWS deployment and Docker containers\n\nSkills: JavaScript, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB, AWS, Docker, Git\n\nEducation:\n- Bachelor's in Computer Science\n- Online courses in Machine Learning and Cloud Computing\n\nProjects:\n- E-commerce platform with payment integration\n- Real-time messaging application\n- Personal finance tracker with data visualization",
+  "skill_profile": {
+    "user_id": "cli-user",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "category": "programming",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "TypeScript",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "React",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "Node.js",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "Python",
+        "category": "programming",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "MongoDB",
+        "category": "programming",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "AWS",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "Docker",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      },
+      {
+        "name": "Git",
+        "category": "tool",
+        "proficiency": 6,
+        "years_experience": null
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Software Developer",
+        "company": "startup",
+        "duration_months": null,
+        "description": "2 years full-stack development at startup. Built React applications with Node.js backend. Worked with PostgreSQL and MongoDB databases. Implemented REST APIs and GraphQL endpoints. Experience with AWS deployment and Docker containers",
+        "skills_used": []
+      }
+    ],
+    "total_experience_years": 1.5,
+    "github_repos": 0,
+    "github_languages": []
+  },
+  "target_role": "Full Stack Developer",
+  "learning_path": {
+    "role": "Full Stack Developer",
+    "timeline_weeks": 4,
+    "current_skill_match": 0.8,
+    "milestones": [
+      "Master sql"
+    ],
+    "resources": [
+      {
+        "title": "Learn sql",
+        "type": "course",
+        "url": null,
+        "duration_weeks": 4,
+        "difficulty": "intermediate",
+        "skills_covered": [
+          "sql"
+        ]
+      }
+    ],
+    "skill_gaps": [
+      "sql"
+    ]
+  },
+  "portfolio_projects": [
+    {
+      "title": "AI-Powered Data Analysis Tool",
+      "description": "Build a web application that analyzes datasets using machine learning",
+      "tech_stack": [
+        "Python",
+        "Streamlit",
+        "Pandas",
+        "Scikit-learn"
+      ],
+      "problem_statement": "Data analysis is complex for non-technical users",
+      "impact": "Democratizes data insights for business users",
+      "github_link": null,
+      "demo_link": null,
+      "category": "AI/ML"
+    },
+    {
+      "title": "Real-time Collaboration Platform",
+      "description": "Build a real-time collaborative workspace like Figma",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "Socket.io",
+        "MongoDB"
+      ],
+      "problem_statement": "Remote teams need better collaboration tools",
+      "impact": "Improves team productivity by 40%",
+      "github_link": null,
+      "demo_link": null,
+      "category": "Web Development"
+    },
+    {
+      "title": "Personal Productivity Assistant",
+      "description": "AI-powered task management and scheduling system",
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js"
+      ],
+      "problem_statement": "People struggle with time management and productivity",
+      "impact": "Increases personal productivity and reduces stress",
+      "github_link": null,
+      "demo_link": null,
+      "category": "Productivity"
+    }
+  ],
+  "mentor_matches": [
+    {
+      "mentor": {
+        "id": "m7",
+        "name": "Jennifer Wu",
+        "expertise": [
+          "data engineering",
+          "spark",
+          "hadoop",
+          "sql",
+          "etl"
+        ],
+        "availability": "medium",
+        "rating": 4.6,
+        "bio": "Data Engineering Lead at Airbnb. Specializes in big data processing and analytics pipelines.",
+        "contact_method": "video_calls"
+      },
+      "compatibility_score": 1.0,
+      "matching_skills": [
+        "sql"
+      ],
+      "reason": "Expert in sql"
+    },
+    {
+      "mentor": {
+        "id": "m3",
+        "name": "Priya Patel",
+        "expertise": [
+          "product management",
+          "agile",
+          "user research",
+          "strategy",
+          "leadership"
+        ],
+        "availability": "high",
+        "rating": 4.8,
+        "bio": "VP of Product at Stripe. Helps engineers transition into product management roles.",
+        "contact_method": "platform_messaging"
+      },
+      "compatibility_score": 0.5,
+      "matching_skills": [],
+      "reason": "Expert in "
+    },
+    {
+      "mentor": {
+        "id": "m9",
+        "name": "Rachel Green",
+        "expertise": [
+          "design systems",
+          "figma",
+          "user experience",
+          "prototyping",
+          "accessibility"
+        ],
+        "availability": "high",
+        "rating": 4.8,
+        "bio": "Senior UX Designer at Adobe. Passionate about inclusive design and design systems.",
+        "contact_method": "platform_messaging"
+      },
+      "compatibility_score": 0.5,
+      "matching_skills": [],
+      "reason": "Expert in "
+    },
+    {
+      "mentor": {
+        "id": "m1",
+        "name": "Dr. Sarah Chen",
+        "expertise": [
+          "python",
+          "machine learning",
+          "data science",
+          "tensorflow",
+          "pytorch"
+        ],
+        "availability": "high",
+        "rating": 4.9,
+        "bio": "Senior AI Research Scientist with 10+ years in ML. Former Google AI, now helping developers transition into AI careers.",
+        "contact_method": "platform_messaging"
+      },
+      "compatibility_score": 0.4,
+      "matching_skills": [],
+      "reason": "Expert in "
+    },
+    {
+      "mentor": {
+        "id": "m5",
+        "name": "Lisa Thompson",
+        "expertise": [
+          "ios",
+          "swift",
+          "mobile development",
+          "ui/ux",
+          "app store"
+        ],
+        "availability": "medium",
+        "rating": 4.5,
+        "bio": "Senior iOS Developer at Apple. 8 years of mobile app development experience.",
+        "contact_method": "video_calls"
+      },
+      "compatibility_score": 0.4,
+      "matching_skills": [],
+      "reason": "Expert in "
+    }
+  ],
+  "current_step": "complete",
+  "iterations": 0,
+  "max_iterations": 5,
+  "output": {
+    "resume_data": {
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Python",
+        "PostgreSQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Git"
+      ],
+      "experiences": [
+        {
+          "title": "Software Developer",
+          "company": "startup",
+          "description": [
+            "2 years full-stack development at startup",
+            "Built React applications with Node.js backend",
+            "Worked with PostgreSQL and MongoDB databases",
+            "Implemented REST APIs and GraphQL endpoints",
+            "Experience with AWS deployment and Docker containers"
+          ]
+        }
+      ],
+      "education": [
+        "Bachelor's in Computer Science",
+        "Online courses in Machine Learning and Cloud Computing"
+      ],
+      "projects": [
+        "E-commerce platform with payment integration",
+        "Real-time messaging application",
+        "Personal finance tracker with data visualization"
+      ]
+    }
+  },
+  "trace": [
+    "Processing resume input",
+    "Successfully parsed resume text",
+    "Creating skill profile",
+    "Created profile with 10 skills and 1 experiences",
+    "Generating learning path for Full Stack Developer",
+    "Generated learning path with 1 resources",
+    "Building portfolio suggestions",
+    "Generated 3 portfolio project ideas",
+    "Matching with mentors",
+    "Found 9 mentor matches"
+  ]
+}

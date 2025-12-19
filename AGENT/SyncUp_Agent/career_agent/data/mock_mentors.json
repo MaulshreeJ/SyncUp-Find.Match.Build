@@ -1,0 +1,92 @@
+[
+  {
+    "id": "m1",
+    "name": "Dr. Sarah Chen",
+    "expertise": ["python", "machine learning", "data science", "tensorflow", "pytorch"],
+    "availability": "high",
+    "rating": 4.9,
+    "bio": "Senior AI Research Scientist with 10+ years in ML. Former Google AI, now helping developers transition into AI careers.",
+    "contact_method": "platform_messaging"
+  },
+  {
+    "id": "m2",
+    "name": "Marcus Rodriguez",
+    "expertise": ["javascript", "react", "node.js", "aws", "system design"],
+    "availability": "medium",
+    "rating": 4.7,
+    "bio": "Full Stack Engineering Manager at Netflix. Specializes in scalable web applications and cloud architecture.",
+    "contact_method": "video_calls"
+  },
+  {
+    "id": "m3",
+    "name": "Priya Patel",
+    "expertise": ["product management", "agile", "user research", "strategy", "leadership"],
+    "availability": "high",
+    "rating": 4.8,
+    "bio": "VP of Product at Stripe. Helps engineers transition into product management roles.",
+    "contact_method": "platform_messaging"
+  },
+  {
+    "id": "m4",
+    "name": "David Kim",
+    "expertise": ["java", "spring", "microservices", "kubernetes", "devops"],
+    "availability": "low",
+    "rating": 4.6,
+    "bio": "Principal Engineer at Uber. Expert in distributed systems and backend architecture.",
+    "contact_method": "email"
+  },
+  {
+    "id": "m5",
+    "name": "Lisa Thompson",
+    "expertise": ["ios", "swift", "mobile development", "ui/ux", "app store"],
+    "availability": "medium",
+    "rating": 4.5,
+    "bio": "Senior iOS Developer at Apple. 8 years of mobile app development experience.",
+    "contact_method": "video_calls"
+  },
+  {
+    "id": "m6",
+    "name": "Ahmed Hassan",
+    "expertise": ["cybersecurity", "penetration testing", "network security", "compliance"],
+    "availability": "high",
+    "rating": 4.7,
+    "bio": "Cybersecurity Consultant and CISSP. Helps developers build secure applications.",
+    "contact_method": "platform_messaging"
+  },
+  {
+    "id": "m7",
+    "name": "Jennifer Wu",
+    "expertise": ["data engineering", "spark", "hadoop", "sql", "etl"],
+    "availability": "medium",
+    "rating": 4.6,
+    "bio": "Data Engineering Lead at Airbnb. Specializes in big data processing and analytics pipelines.",
+    "contact_method": "video_calls"
+  },
+  {
+    "id": "m8",
+    "name": "Carlos Silva",
+    "expertise": ["blockchain", "solidity", "web3", "defi", "smart contracts"],
+    "availability": "low",
+    "rating": 4.4,
+    "bio": "Blockchain Architect and DeFi protocol developer. Founder of Web3 education platform.",
+    "contact_method": "email"
+  },
+  {
+    "id": "m9",
+    "name": "Rachel Green",
+    "expertise": ["design systems", "figma", "user experience", "prototyping", "accessibility"],
+    "availability": "high",
+    "rating": 4.8,
+    "bio": "Senior UX Designer at Adobe. Passionate about inclusive design and design systems.",
+    "contact_method": "platform_messaging"
+  },
+  {
+    "id": "m10",
+    "name": "Michael Brown",
+    "expertise": ["golang", "docker", "kubernetes", "cloud native", "sre"],
+    "availability": "medium",
+    "rating": 4.5,
+    "bio": "Site Reliability Engineer at Google Cloud. Expert in cloud-native technologies and DevOps practices.",
+    "contact_method": "video_calls"
+  }
+]

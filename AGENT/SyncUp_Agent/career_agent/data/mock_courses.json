@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "type": "course",
+    "url": "https://coursera.org/specializations/machine-learning",
+    "duration_weeks": 12,
+    "difficulty": "intermediate",
+    "skills_covered": ["machine learning", "python", "tensorflow", "supervised learning", "unsupervised learning"],
+    "rating": 4.8,
+    "price": "subscription"
+  },
+  {
+    "title": "Full Stack Web Development Bootcamp",
+    "provider": "Udemy",
+    "type": "course",
+    "url": "https://udemy.com/course/the-complete-web-development-bootcamp",
+    "duration_weeks": 16,
+    "difficulty": "beginner",
+    "skills_covered": ["html", "css", "javascript", "node.js", "react", "mongodb"],
+    "rating": 4.7,
+    "price": "$89.99"
+  },
+  {
+    "title": "AWS Certified Solutions Architect",
+    "provider": "A Cloud Guru",
+    "type": "certification",
+    "url": "https://acloudguru.com/course/aws-certified-solutions-architect-associate",
+    "duration_weeks": 8,
+    "difficulty": "intermediate",
+    "skills_covered": ["aws", "cloud architecture", "ec2", "s3", "vpc"],
+    "rating": 4.6,
+    "price": "subscription"
+  },
+  {
+    "title": "Data Science with Python",
+    "provider": "edX",
+    "type": "course",
+    "url": "https://edx.org/course/introduction-to-data-science-with-python",
+    "duration_weeks": 10,
+    "difficulty": "intermediate",
+    "skills_covered": ["python", "pandas", "numpy", "matplotlib", "statistics"],
+    "rating": 4.5,
+    "price": "free"
+  },
+  {
+    "title": "React Native Mobile Development",
+    "provider": "Pluralsight",
+    "type": "course",
+    "url": "https://pluralsight.com/courses/react-native",
+    "duration_weeks": 6,
+    "difficulty": "intermediate",
+    "skills_covered": ["react native", "javascript", "mobile development", "ios", "android"],
+    "rating": 4.4,
+    "price": "subscription"
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "provider": "Cybrary",
+    "type": "course",
+    "url": "https://cybrary.it/course/cybersecurity-fundamentals",
+    "duration_weeks": 4,
+    "difficulty": "beginner",
+    "skills_covered": ["network security", "risk assessment", "incident response", "compliance"],
+    "rating": 4.3,
+    "price": "free"
+  },
+  {
+    "title": "Docker and Kubernetes",
+    "provider": "Linux Academy",
+    "type": "course",
+    "url": "https://linuxacademy.com/course/docker-and-kubernetes",
+    "duration_weeks": 8,
+    "difficulty": "intermediate",
+    "skills_covered": ["docker", "kubernetes", "containerization", "devops", "orchestration"],
+    "rating": 4.7,
+    "price": "subscription"
+  },
+  {
+    "title": "UX Design Fundamentals",
+    "provider": "Google UX Design Certificate",
+    "type": "certification",
+    "url": "https://coursera.org/professional-certificates/google-ux-design",
+    "duration_weeks": 24,
+    "difficulty": "beginner",
+    "skills_covered": ["user research", "prototyping", "figma", "user testing", "design thinking"],
+    "rating": 4.6,
+    "price": "subscription"
+  },
+  {
+    "title": "Blockchain Development",
+    "provider": "ConsenSys Academy",
+    "type": "course",
+    "url": "https://consensys.net/academy/bootcamp",
+    "duration_weeks": 12,
+    "difficulty": "advanced",
+    "skills_covered": ["solidity", "ethereum", "smart contracts", "web3", "defi"],
+    "rating": 4.5,
+    "price": "$1,500"
+  },
+  {
+    "title": "Product Management Fundamentals",
+    "provider": "Product School",
+    "type": "course",
+    "url": "https://productschool.com/product-management-course",
+    "duration_weeks": 8,
+    "difficulty": "intermediate",
+    "skills_covered": ["product strategy", "user research", "agile", "roadmapping", "analytics"],
+    "rating": 4.4,
+    "price": "$2,000"
+  }
+]

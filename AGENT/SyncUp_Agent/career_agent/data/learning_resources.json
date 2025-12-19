@@ -1,0 +1,232 @@
+[
+  {
+    "skill": "python",
+    "resources": [
+      {
+        "title": "Python for Everybody Specialization",
+        "type": "course",
+        "provider": "Coursera",
+        "duration_weeks": 8,
+        "difficulty": "beginner",
+        "url": "https://coursera.org/specializations/python",
+        "description": "Learn Python programming from scratch with hands-on projects"
+      },
+      {
+        "title": "Automate the Boring Stuff with Python",
+        "type": "book",
+        "provider": "No Starch Press",
+        "duration_weeks": 6,
+        "difficulty": "beginner",
+        "url": "https://automatetheboringstuff.com/",
+        "description": "Practical Python programming for automation tasks"
+      }
+    ]
+  },
+  {
+    "skill": "machine learning",
+    "resources": [
+      {
+        "title": "Machine Learning Course by Andrew Ng",
+        "type": "course",
+        "provider": "Coursera",
+        "duration_weeks": 11,
+        "difficulty": "intermediate",
+        "url": "https://coursera.org/learn/machine-learning",
+        "description": "Comprehensive introduction to machine learning algorithms"
+      },
+      {
+        "title": "Hands-On Machine Learning",
+        "type": "book",
+        "provider": "O'Reilly",
+        "duration_weeks": 12,
+        "difficulty": "intermediate",
+        "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+        "description": "Practical machine learning with Scikit-Learn and TensorFlow"
+      }
+    ]
+  },
+  {
+    "skill": "react",
+    "resources": [
+      {
+        "title": "React - The Complete Guide",
+        "type": "course",
+        "provider": "Udemy",
+        "duration_weeks": 8,
+        "difficulty": "intermediate",
+        "url": "https://udemy.com/course/react-the-complete-guide-incl-redux/",
+        "description": "Master React with hooks, context, and modern patterns"
+      },
+      {
+        "title": "React Official Tutorial",
+        "type": "tutorial",
+        "provider": "React.dev",
+        "duration_weeks": 2,
+        "difficulty": "beginner",
+        "url": "https://react.dev/learn",
+        "description": "Official React documentation and interactive tutorial"
+      }
+    ]
+  },
+  {
+    "skill": "tensorflow",
+    "resources": [
+      {
+        "title": "TensorFlow Developer Certificate",
+        "type": "certification",
+        "provider": "TensorFlow",
+        "duration_weeks": 16,
+        "difficulty": "intermediate",
+        "url": "https://www.tensorflow.org/certificate",
+        "description": "Official TensorFlow certification program"
+      },
+      {
+        "title": "Deep Learning with TensorFlow",
+        "type": "course",
+        "provider": "Coursera",
+        "duration_weeks": 12,
+        "difficulty": "advanced",
+        "url": "https://coursera.org/specializations/tensorflow-in-practice",
+        "description": "Build and deploy deep learning models with TensorFlow"
+      }
+    ]
+  },
+  {
+    "skill": "aws",
+    "resources": [
+      {
+        "title": "AWS Cloud Practitioner",
+        "type": "certification",
+        "provider": "AWS",
+        "duration_weeks": 8,
+        "difficulty": "beginner",
+        "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+        "description": "Entry-level AWS certification covering cloud fundamentals"
+      },
+      {
+        "title": "AWS Solutions Architect Associate",
+        "type": "certification",
+        "provider": "AWS",
+        "duration_weeks": 12,
+        "difficulty": "intermediate",
+        "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+        "description": "Design and deploy scalable systems on AWS"
+      }
+    ]
+  },
+  {
+    "skill": "docker",
+    "resources": [
+      {
+        "title": "Docker Mastery Course",
+        "type": "course",
+        "provider": "Udemy",
+        "duration_weeks": 6,
+        "difficulty": "intermediate",
+        "url": "https://udemy.com/course/docker-mastery/",
+        "description": "Complete Docker course from basics to production"
+      },
+      {
+        "title": "Docker Official Documentation",
+        "type": "tutorial",
+        "provider": "Docker",
+        "duration_weeks": 3,
+        "difficulty": "beginner",
+        "url": "https://docs.docker.com/get-started/",
+        "description": "Official Docker getting started guide"
+      }
+    ]
+  },
+  {
+    "skill": "kubernetes",
+    "resources": [
+      {
+        "title": "Certified Kubernetes Administrator (CKA)",
+        "type": "certification",
+        "provider": "CNCF",
+        "duration_weeks": 16,
+        "difficulty": "advanced",
+        "url": "https://www.cncf.io/certification/cka/",
+        "description": "Official Kubernetes administrator certification"
+      },
+      {
+        "title": "Kubernetes for Developers",
+        "type": "course",
+        "provider": "Pluralsight",
+        "duration_weeks": 8,
+        "difficulty": "intermediate",
+        "url": "https://pluralsight.com/courses/kubernetes-developers-core-concepts",
+        "description": "Learn Kubernetes from a developer perspective"
+      }
+    ]
+  },
+  {
+    "skill": "javascript",
+    "resources": [
+      {
+        "title": "JavaScript: The Complete Guide",
+        "type": "course",
+        "provider": "Udemy",
+        "duration_weeks": 10,
+        "difficulty": "beginner",
+        "url": "https://udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "description": "Master JavaScript from basics to advanced concepts"
+      },
+      {
+        "title": "You Don't Know JS",
+        "type": "book",
+        "provider": "GitHub",
+        "duration_weeks": 8,
+        "difficulty": "intermediate",
+        "url": "https://github.com/getify/You-Dont-Know-JS",
+        "description": "Deep dive into JavaScript core concepts"
+      }
+    ]
+  },
+  {
+    "skill": "data science",
+    "resources": [
+      {
+        "title": "Data Science Specialization",
+        "type": "course",
+        "provider": "Coursera",
+        "duration_weeks": 20,
+        "difficulty": "intermediate",
+        "url": "https://coursera.org/specializations/jhu-data-science",
+        "description": "Complete data science pipeline from Johns Hopkins"
+      },
+      {
+        "title": "Python for Data Analysis",
+        "type": "book",
+        "provider": "O'Reilly",
+        "duration_weeks": 10,
+        "difficulty": "intermediate",
+        "url": "https://wesmckinney.com/book/",
+        "description": "Data wrangling with Pandas, NumPy, and IPython"
+      }
+    ]
+  },
+  {
+    "skill": "node.js",
+    "resources": [
+      {
+        "title": "Node.js - The Complete Guide",
+        "type": "course",
+        "provider": "Udemy",
+        "duration_weeks": 12,
+        "difficulty": "intermediate",
+        "url": "https://udemy.com/course/nodejs-the-complete-guide/",
+        "description": "Build scalable server-side applications with Node.js"
+      },
+      {
+        "title": "Node.js Official Documentation",
+        "type": "tutorial",
+        "provider": "Node.js",
+        "duration_weeks": 4,
+        "difficulty": "beginner",
+        "url": "https://nodejs.org/en/docs/guides/getting-started-guide/",
+        "description": "Official Node.js getting started guide"
+      }
+    ]
+  }
+]
