@@ -84,7 +84,7 @@ syncup-platform/
 Watch the full video demonstration showcasing the **AI-powered agents** used in **SyncUp** — including **career coaching**, **intelligent team matchmaking**, and **real-time project guidance**.
 
 **Drive Link:**  
- https://drive.google.com/file/d/1aguw3Tmxeq1Zrxe9P2-BCP5UGLUNalNh/view?usp=drivesdk
+ https://drive.google.com/file/d/1aguw3Tmxeq1Zrxe9P2-BCP5UGLUNalNh/view?usp=drive_link
 
 > The demo highlights:
 > - AI Career Coach in action
