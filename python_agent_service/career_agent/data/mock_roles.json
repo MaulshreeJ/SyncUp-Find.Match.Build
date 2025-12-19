@@ -1,0 +1,86 @@
+[
+  {
+    "title": "AI Engineer",
+    "required_skills": ["python", "machine learning", "tensorflow", "pytorch", "data science"],
+    "preferred_skills": ["deep learning", "nlp", "computer vision", "aws", "docker"],
+    "experience_level": "mid",
+    "description": "Develop and deploy machine learning models and AI systems in production environments."
+  },
+  {
+    "title": "Full Stack Developer",
+    "required_skills": ["javascript", "react", "node.js", "sql", "git"],
+    "preferred_skills": ["typescript", "aws", "docker", "mongodb", "graphql"],
+    "experience_level": "mid",
+    "description": "Build end-to-end web applications using modern frontend and backend technologies."
+  },
+  {
+    "title": "Data Scientist",
+    "required_skills": ["python", "statistics", "pandas", "numpy", "machine learning"],
+    "preferred_skills": ["r", "tableau", "spark", "sql", "deep learning"],
+    "experience_level": "mid",
+    "description": "Analyze complex datasets to extract insights and build predictive models for business decisions."
+  },
+  {
+    "title": "DevOps Engineer",
+    "required_skills": ["linux", "docker", "kubernetes", "aws", "ci/cd"],
+    "preferred_skills": ["terraform", "ansible", "monitoring", "security", "python"],
+    "experience_level": "mid",
+    "description": "Automate deployment pipelines and manage cloud infrastructure for scalable applications."
+  },
+  {
+    "title": "Mobile Developer",
+    "required_skills": ["swift", "kotlin", "mobile development", "ui/ux", "api integration"],
+    "preferred_skills": ["react native", "flutter", "firebase", "app store", "testing"],
+    "experience_level": "mid",
+    "description": "Develop native and cross-platform mobile applications for iOS and Android."
+  },
+  {
+    "title": "Product Manager",
+    "required_skills": ["product strategy", "user research", "agile", "analytics", "communication"],
+    "preferred_skills": ["sql", "a/b testing", "roadmapping", "stakeholder management", "design thinking"],
+    "experience_level": "mid",
+    "description": "Define product vision and strategy, working with engineering and design teams to deliver user value."
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "required_skills": ["network security", "penetration testing", "incident response", "compliance", "risk assessment"],
+    "preferred_skills": ["python", "forensics", "cloud security", "siem", "vulnerability assessment"],
+    "experience_level": "mid",
+    "description": "Protect organizational assets by identifying vulnerabilities and implementing security measures."
+  },
+  {
+    "title": "Data Engineer",
+    "required_skills": ["python", "sql", "etl", "data pipelines", "cloud platforms"],
+    "preferred_skills": ["spark", "kafka", "airflow", "snowflake", "dbt"],
+    "experience_level": "mid",
+    "description": "Build and maintain data infrastructure and pipelines for analytics and machine learning."
+  },
+  {
+    "title": "Frontend Developer",
+    "required_skills": ["javascript", "html", "css", "react", "responsive design"],
+    "preferred_skills": ["typescript", "vue.js", "webpack", "testing", "accessibility"],
+    "experience_level": "entry",
+    "description": "Create engaging user interfaces and experiences for web applications."
+  },
+  {
+    "title": "Backend Developer",
+    "required_skills": ["python", "java", "api development", "databases", "server architecture"],
+    "preferred_skills": ["microservices", "redis", "message queues", "docker", "monitoring"],
+    "experience_level": "entry",
+    "description": "Develop server-side logic, APIs, and database systems for web applications."
+  },
+  {
+    "title": "UX Designer",
+    "required_skills": ["user research", "prototyping", "figma", "user testing", "design thinking"],
+    "preferred_skills": ["accessibility", "design systems", "animation", "front-end basics", "analytics"],
+    "experience_level": "entry",
+    "description": "Research user needs and design intuitive interfaces that solve real problems."
+  },
+  {
+    "title": "Blockchain Developer",
+    "required_skills": ["solidity", "web3", "smart contracts", "ethereum", "cryptography"],
+    "preferred_skills": ["defi", "nft", "layer 2", "security auditing", "javascript"],
+    "experience_level": "mid",
+    "description": "Build decentralized applications and smart contracts on blockchain platforms."
+  }
+]

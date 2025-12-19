@@ -1,0 +1,20 @@
+John Smith
+Software Engineer
+
+Experience:
+- 3 years Python development at Tech Corp
+- Built web applications using React and Node.js  
+- Developed machine learning models with TensorFlow
+- Led team of 5 developers on AI projects
+- Implemented CI/CD pipelines with Docker and Kubernetes
+
+Skills: Python, JavaScript, React, Node.js, TensorFlow, SQL, Git, Docker, Kubernetes, AWS
+
+Education:
+- BS Computer Science, University of Technology
+- Machine Learning Specialization, Coursera
+
+Projects:
+- AI-powered recommendation system for e-commerce
+- Real-time chat application with WebSocket
+- Automated deployment pipeline for microservices

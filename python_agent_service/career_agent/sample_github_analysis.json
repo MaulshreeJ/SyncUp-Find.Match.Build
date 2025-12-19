@@ -1,0 +1,169 @@
+{
+  "profile_summary": {
+    "username": "octocat",
+    "name": "The Octocat",
+    "bio": null,
+    "followers": 20522,
+    "following": 9,
+    "public_repos": 8,
+    "total_stars": 20059,
+    "total_forks": 159444,
+    "total_watchers": 20059,
+    "contribution_level": "Consistent"
+  },
+  "tech_stack": {
+    "top_languages": [
+      "HTML",
+      "Ruby",
+      "CSS"
+    ],
+    "frameworks": [],
+    "devops_tools": [],
+    "machine_learning_tools": []
+  },
+  "project_analysis": [
+    {
+      "repo_name": "Spoon-Knife",
+      "description": "This repo is for demonstration purposes only.",
+      "readme_quality": "Basic",
+      "commit_frequency": "High",
+      "test_coverage": "Limited",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 13353,
+      "forks": 154288,
+      "language": "HTML",
+      "created_at": "2011-01-27T19:30:43Z",
+      "updated_at": "2025-11-05T12:46:27Z"
+    },
+    {
+      "repo_name": "Hello-World",
+      "description": "My first repository on GitHub!",
+      "readme_quality": "Basic",
+      "commit_frequency": "High",
+      "test_coverage": "Limited",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 3237,
+      "forks": 3994,
+      "language": null,
+      "created_at": "2011-01-26T19:01:12Z",
+      "updated_at": "2025-11-04T17:58:19Z"
+    },
+    {
+      "repo_name": "octocat.github.io",
+      "description": null,
+      "readme_quality": "Minimal",
+      "commit_frequency": "High",
+      "test_coverage": "Limited",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 947,
+      "forks": 468,
+      "language": "CSS",
+      "created_at": "2014-03-18T20:54:39Z",
+      "updated_at": "2025-11-04T15:22:59Z"
+    },
+    {
+      "repo_name": "hello-worId",
+      "description": "My first repository on GitHub.",
+      "readme_quality": "Good",
+      "commit_frequency": "High",
+      "test_coverage": "Limited",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 641,
+      "forks": 257,
+      "language": null,
+      "created_at": "2014-06-18T21:26:19Z",
+      "updated_at": "2025-11-04T15:24:52Z"
+    },
+    {
+      "repo_name": "linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "readme_quality": "Excellent",
+      "commit_frequency": "High",
+      "test_coverage": "Moderate",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 626,
+      "forks": 240,
+      "language": "Ruby",
+      "created_at": "2016-08-02T17:35:14Z",
+      "updated_at": "2025-11-04T17:08:02Z"
+    },
+    {
+      "repo_name": "git-consortium",
+      "description": "This repo is for demonstration purposes only.",
+      "readme_quality": "Good",
+      "commit_frequency": "High",
+      "test_coverage": "Limited",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 493,
+      "forks": 141,
+      "language": null,
+      "created_at": "2014-03-28T17:55:38Z",
+      "updated_at": "2025-11-04T15:22:38Z"
+    },
+    {
+      "repo_name": "boysenberry-repo-1",
+      "description": "Testing",
+      "readme_quality": "Basic",
+      "commit_frequency": "High",
+      "test_coverage": "Good",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 386,
+      "forks": 25,
+      "language": null,
+      "created_at": "2018-05-10T17:51:29Z",
+      "updated_at": "2025-11-02T11:01:34Z"
+    },
+    {
+      "repo_name": "test-repo1",
+      "description": null,
+      "readme_quality": "Minimal",
+      "commit_frequency": "High",
+      "test_coverage": "Good",
+      "project_type": "General Development",
+      "collaboration": "Collaborative",
+      "stars": 376,
+      "forks": 31,
+      "language": null,
+      "created_at": "2016-04-14T21:29:25Z",
+      "updated_at": "2025-11-05T08:25:12Z"
+    }
+  ],
+  "coding_behavior": {
+    "activity_trend": "Growing",
+    "average_commits_per_month": 18,
+    "most_active_day": "Saturday",
+    "repo_origin_ratio": "75% original",
+    "total_repositories": 8,
+    "original_repositories": 6,
+    "forked_repositories": 2
+  },
+  "collaboration_metrics": {
+    "collaboration_score": 1.0,
+    "maintained_repos": 6,
+    "contributed_to_others": 2,
+    "pr_acceptance_rate": "85%"
+  },
+  "insights": {
+    "strengths": [
+      "Consistent contributor with regular activity",
+      "Multi-language proficiency: HTML, Ruby, CSS"
+    ],
+    "improvements": [
+      "Add more testing pipelines and DevOps tools",
+      "Increase collaborative projects and open source contributions",
+      "Improve documentation quality across projects"
+    ]
+  },
+  "career_fit": {
+    "suggested_roles": [],
+    "readiness_level": "Developing"
+  },
+  "analysis_timestamp": "2025-11-05T22:10:40.425949"
+}

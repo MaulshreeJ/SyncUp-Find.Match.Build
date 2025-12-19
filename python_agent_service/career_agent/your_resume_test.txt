@@ -1,0 +1,20 @@
+Your Name
+Software Developer
+
+Experience:
+- 2 years full-stack development at startup
+- Built React applications with Node.js backend
+- Worked with PostgreSQL and MongoDB databases
+- Implemented REST APIs and GraphQL endpoints
+- Experience with AWS deployment and Docker containers
+
+Skills: JavaScript, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB, AWS, Docker, Git
+
+Education:
+- Bachelor's in Computer Science
+- Online courses in Machine Learning and Cloud Computing
+
+Projects:
+- E-commerce platform with payment integration
+- Real-time messaging application
+- Personal finance tracker with data visualization
