@@ -2,7 +2,7 @@
 
 A comprehensive platform for hackathon team formation, project collaboration, and skill development with AI-powered coaching.
 
-## 🚀 Features
+##  Features
 
 ### Core Features
 - **User Authentication & Profiles** - Secure registration and login system
@@ -48,7 +48,7 @@ A comprehensive platform for hackathon team formation, project collaboration, an
 - **LangGraph** - AI workflow orchestration
 - **Custom AI Agents** - Career coaching and team matching
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 syncup-platform/
@@ -72,7 +72,7 @@ syncup-platform/
 └── docs/                         # Documentation files
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -157,7 +157,7 @@ syncup-platform/
    - Backend API: http://localhost:5000
    - AI Service: http://localhost:8000
 
-## 🎯 Usage
+##  Usage
 
 ### For Participants
 1. **Register** for an account
@@ -177,7 +177,7 @@ syncup-platform/
 2. **User management** and moderation
 3. **Content management** for resources and announcements
 
-## 🤖 AI Features
+##  AI Features
 
 ### Career Coach
 - Personalized project recommendations
@@ -214,7 +214,7 @@ syncup-platform/
 - `POST /api/ai/matcher` - Team matching
 - `POST /api/ai/resume/analyze` - Resume analysis
 
-## 🚀 Deployment
+##  Deployment
 
 ### Frontend (Vercel/Netlify)
 ```bash
@@ -234,7 +234,7 @@ npm run build
 # Deploy python_agent_service/ folder
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -242,26 +242,22 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Google Gemini AI** for powering the AI coaching features
 - **MongoDB** for the flexible database solution
 - **Socket.IO** for real-time communication
 - **React** and **Vite** for the modern frontend experience
 
-## 📞 Support
+##  Support
 
 For support, email support@syncup.ai or join our Discord community.
 
-## 🔗 Links
 
-- [Live Demo](https://syncup-platform.vercel.app)
-- [Documentation](https://docs.syncup.ai)
-- [API Reference](https://api.syncup.ai/docs)
 
 ---
 
