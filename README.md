@@ -79,6 +79,20 @@ syncup-platform/
 - Python (v3.9 or higher)
 - MongoDB (local or cloud)
 
+### Video Demonstration (AI Agent Walkthrough)
+
+Watch the full video demonstration showcasing the **AI-powered agents** used in **SyncUp** — including **career coaching**, **intelligent team matchmaking**, and **real-time project guidance**.
+
+**Drive Link:**  
+ https://drive.google.com/file/d/1aguw3Tmxeq1Zrxe9P2-BCP5UGLUNalNh/view?usp=drivesdk
+
+> The demo highlights:
+> - AI Career Coach in action
+> - Team Matching Agent recommendations
+> - Agent-driven collaboration workflow
+> - Practical usage during a live hackathon scenario
+
+
 ### Installation
 
 1. **Clone the repository**
