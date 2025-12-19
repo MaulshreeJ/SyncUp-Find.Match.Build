@@ -79,7 +79,7 @@ syncup-platform/
 - Python (v3.9 or higher)
 - MongoDB (local or cloud)
 
-### Video Demonstration (AI Agent Walkthrough)
+## Video Demonstration (AI Agent Walkthrough)
 
 Watch the full video demonstration showcasing the **AI-powered agents** used in **SyncUp** — including **career coaching**, **intelligent team matchmaking**, and **real-time project guidance**.
 
