@@ -93,9 +93,8 @@ Watch the full video demonstration showcasing the **AI-powered agents** used in 
 > - Agent-driven collaboration workflow
 > - Practical usage during a live hackathon scenario
 
-<div align="center">
-  <img src="https://www.youtube.com/watch?v=B8WUaarxMPM" width="80%" alt="SyncUp UI Preview"/>
-</div>
+
+[![Watch the video](https://img.shields.io/badge/Watch_Demo_Video-▶️-red?style=for-the-badge)](https://www.youtube.com/watch?v=B8WUaarxMPM)
 
 
 
