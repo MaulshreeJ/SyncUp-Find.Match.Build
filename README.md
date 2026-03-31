@@ -86,7 +86,7 @@ Watch the full video demonstration showcasing the **AI-powered agents** used in 
   <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ5NzYwNTYsIm5iZiI6MTc3NDk3NTc1NiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzMxVDE2NDkxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkNTE0ODkwMmI1NDUzOGIxODY0YzU3ZjRkODE4NjlmNjJhOGM0ZTI2YmFmODJmN2NkMWQ0ODBlMTg2MWRmMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.80sNaGXd6C1QaXx89rTUeIBjnCUg536038-XrIi1DaA" width="80%" alt="SyncUp UI Preview"/>
 </div>
 
-**Note to recruiter/viewer:** Watch the demo below to see the real-time collaboration and AI teammate matchmaking in action!
+**Note to viewer:** Watch the demo below to see the real-time collaboration and AI teammate matchmaking in action!
 > The demo highlights:
 > - AI Career Coach in action
 > - Team Matching Agent recommendations
@@ -94,7 +94,7 @@ Watch the full video demonstration showcasing the **AI-powered agents** used in 
 > - Practical usage during a live hackathon scenario
 
 
-[![Watch the video](https://img.shields.io/badge/Watch_Demo_Video-▶️-red?style=for-the-badge)](https://www.youtube.com/watch?v=B8WUaarxMPM)
+[![Watch the video](https://img.shields.io/badge/Watch_Demo_Video-▶️-red?style=for-the-badge)]https://www.youtube.com/watch?v=B8WUaarxMPM
 
 
 
